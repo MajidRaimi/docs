@@ -31,10 +31,6 @@
     "style": "windows"
   },
   "topbarLinks": [],
-  "topbarCtaButton": {
-    "name": "Visit Us",
-    "url": "https://wavez.tech"
-  },
   "tabs": [],
   "navigation": [
     {
@@ -48,7 +44,19 @@
     {
       "group": "Tools",
       "pages": [
-        "tools/getting-started.mdx"
+        "tools/getting-started",
+        "tools/affine",
+        "tools/chatwoot",
+        "tools/coolify",
+        "tools/docmost",
+        "tools/gitlab",
+        "tools/n8n",
+        "tools/next-cloud",
+        "tools/penpot",
+        "tools/plane",
+        "tools/plausbile",
+        "tools/twenty",
+        "tools/vaultwarden"
       ]
     }
   ],
